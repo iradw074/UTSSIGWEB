@@ -4,6 +4,6 @@
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-7.8056, 110.3973]}, "properties": {}},
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-7.8470, 110.4795]}, "properties": {}},
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-8.2328, 111.0768]}, "properties": {}},
-    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-7.7702, 110.3779]}, "properties": {}}
-    ]
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-7.7702, 110.3779]}, "properties": {}},
+  ]
 }
